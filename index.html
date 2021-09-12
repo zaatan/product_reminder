@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+
+</head>
+<body>
+    <div class="container" id="sandeep" hidden="false">
+        <h1> <span class="yellow">Direction towards the shop</pan></h1>
+            
+    <div class="container">
+        <div class="map d-flex justify-content-center">
+        
+            <iframe width="800" height="400" frameborder="0" src="https://www.bing.com/maps/embed?h=500&w=700&cp=10.027957741305755~76.30261611938474&lvl=16&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
+            </iframe>
+            <div style="white-space: nowrap; text-align: center; width: 700px; padding: 6px 0;">
+               
+                <button class="btn-hover color-2" onclick="sandeep();hideme()">Reminder</button>
+               
+           </div>
+   </div></div>
+   <div id="hide" hidden="true">
+    <h1><span class="blue">&lt;</span>Table<span class="blue">&gt;</span> <span class="yellow">Grocery Items</pan></h1>
+        <h2>Created with love by <a href="" target="_blank">Sandeep S Anand</a></h2>
+        
+        <table class="container">
+            <thead>
+                <tr>
+                    <th><h1>Serial No</h1></th>
+                    <th><h1>Items</h1></th>
+                    <th><h1>Unit</h1></th>
+                    <th><h1>Quantity</h1></th>
+                    <th><h1>Category</h1></th>
+                    <th><h1>Notes</h1></th>
+                </tr>
+            </thead>
+            <tbody id="demo">
+               
+            </tbody>
+        </table>
+    </div>
+    <script>
+        function hideme(){
+            document.getElementById("hide").removeAttribute("hidden","true");
+    }
+    function showme(){
+
+
+    }
+
+    </script>
+        <script src="ajax.js"></script>
+</body>
+</html>

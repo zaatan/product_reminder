@@ -1,0 +1,94 @@
+{"g":[  
+     
+    {  
+         "slno": "1",  
+         "Name": "Rice",  
+         "Unit": "kg",
+         "Quantity":"5" ,
+         "Dept":"General",
+         "Notes":"Surekha Brand"
+
+    }, 
+    {  
+     "slno": "2",  
+     "Name": "Potato",  
+     "Unit": "kg",
+     "Quantity":"2" ,
+     "Dept":"Vegetable",
+     "Notes":"Firm and smooth"
+
+},  {  
+     "slno": "3",  
+     "Name": "Apple",  
+     "Unit": "kg",
+     "Quantity":"3" ,
+     "Dept":"Fruits",
+     "Notes":"Green Apple"
+
+},  {  
+     "slno": "4",  
+     "Name": "Onion",  
+     "Unit": "Gram",
+     "Quantity":"500" ,
+     "Dept":"Vegitable",
+     "Notes":"Dry and papery skin"
+
+},  {  
+     "slno": "5",  
+     "Name": "Wheat Flour",  
+     "Unit": "Kg",
+     "Quantity":"1" ,
+     "Dept":"Flour",
+     "Notes":"Good protien content"
+
+},  {  
+     "slno": "6",  
+     "Name": "Milk",  
+     "Unit": "litre",
+     "Quantity":"2" ,
+     "Dept":"Diary",
+     "Notes":"MIlma"
+
+},  {  
+     "slno": "7",  
+     "Name": "Coconut Oil",  
+     "Unit": "litre",
+     "Quantity":"1" ,
+     "Dept":"Edible oil",
+     "Notes":"Pure"
+
+},  {  
+     "slno": "8",  
+     "Name": "Chicken Masala",  
+     "Unit": "gram",
+     "Quantity":"100" ,
+     "Dept":"Spice Powder",
+     "Notes":"Eastern"
+
+},  {  
+     "slno": "9",  
+     "Name": "Chicken",  
+     "Unit": "kg",
+     "Quantity":"5" ,
+     "Dept":"Poultry",
+     "Notes":"Fresh Chicken"
+
+},  {  
+     "slno": "10",  
+     "Name": "Orange",  
+     "Unit": "kg",
+     "Quantity":"2" ,
+     "Dept":"Fruits",
+     "Notes":"Fresh"
+
+},  {  
+     "slno": "11",  
+     "Name": "Egg",  
+     "Unit": "Number",
+     "Quantity":"10" ,
+     "Dept":"Poultry",
+     "Notes":"Hen"
+
+}
+ 
+] }
