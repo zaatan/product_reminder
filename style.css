@@ -12,7 +12,7 @@
    font-weight: 300;
    line-height: 1.42em;
    color:#A7A1AE;
-   background-color:#1F2739;
+   background-color:#141f3a;
  }
  .map{
      margin-left: 63px;
@@ -42,14 +42,14 @@
    text-decoration: none;
  }
  
- .blue { color: #185875; }
+ .blue { color: #1b78a3; }
  .yellow { color: #FFF842; }
  
  .container th h1 {
        font-weight: bold;
        font-size: 1em;
    text-align: left;
-   color: #185875;
+   color: #2189b9;
  }
  
  .container td {
@@ -77,7 +77,7 @@
  
  /* Background-color of the odd rows */
  .container tr:nth-child(odd) {
-       background-color: #323C50;
+       background-color: #46536e;
  }
  
  /* Background-color of the even rows */
